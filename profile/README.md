@@ -1,9 +1,5 @@
 # TBS Agent — программа для настройки и управления оборудованием Team BlackSheep (TBS) (RU)
 
-<div align="center">
-  <img src="https://www.team-blacksheep.com/img/gallery/TBS%20Agent%200%20.jpg" width="820" alt="TBS Agent">
-</div>
-
 <p align="center">
   <a href="https://tbs-agent.github.io/.github">
     <img src="https://img.shields.io/badge/Скачать_TBS_Agent-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать TBS Agent">
